@@ -773,10 +773,10 @@
 }
 #smzdm_panel #panel_stock > li.warningtips > span {
   font-weight: bold;
-  color: #d62222;
+  color: #D62222;
 }
 #smzdm_panel #panel_stock > li.voidtips {
-  color: #bababa;
+  color: #BABABA;
 }
 #smzdm_panel #panel_stock div {
   display: inline-block;
@@ -808,7 +808,7 @@
 }
 #smzdm_panel #panel_comment > p.errortips {
   margin-top: 5px;
-  color: #ff0000;
+  color: red;
 }
 #smzdm_panel #panel_size {
   width: 400px;

@@ -208,7 +208,8 @@
             <a ms-on-click="hide()" class="close">×</a>
           <h3>小提示！</h3>
         </div>
-      <div class="modal-body">{{ message }}</div>
+        <div class="modal-body">{{ message }}</div>
+        <button ms-if="buttonShow" ms-on-click="agree()">我知道了，同意跳转</button>
     </div>
     <!-- /提示弹窗 -->
     

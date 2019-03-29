@@ -2,7 +2,7 @@
 <extension>
 <id>sogou.com.smzdm</id>
 <name>什么值得买</name>
-<version>2.5.5</version>
+<version>2.5.10</version>
 <require_api_version>2</require_api_version>
 <description>“什么值得买”是一个中立的，致力于帮助广大网友买到更有性价比网购产品的推荐类博客。</description>
 <show_icon>true</show_icon>
